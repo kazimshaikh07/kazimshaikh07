@@ -1,4 +1,5 @@
 ## Hi there 👋
+<!--
 <div style="text-align: center;"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Aatif%F0%9F%91%8B;Let's+Connect!"/>
 </div>
@@ -32,7 +33,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Moon-kazim&show_icons=true&locale=en&layout=compact" alt="Moon-kazim" /></p>
 
 <p>&nbsp;<img align="center" src="" alt="Moon-kazim" /></p>
-
+-->
 ![Snake animation](https://raw.githubusercontent.com/AatifxShaikh/AatifxShaikh/output/github-contribution-grid-snake-dark.svg)
 <!--
 **Moon-kazim/Moon-kazim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
