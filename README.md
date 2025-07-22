@@ -20,7 +20,8 @@
 [![](https://visitcount.itsvg.in/api?id=Moon-kazim&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--https://gprm.itsvg.in/-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Snake animation](https://raw.githubusercontent.com/AatifxShaikh/AatifxShaikh/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/kazimshaikh07/snk/output/github-contribution-grid-snake-dark.svg)
+<!--![Snake animation](https://raw.githubusercontent.com/AatifxShaikh/AatifxShaikh/output/github-contribution-grid-snake-dark.svg)
 <!--
 **Moon-kazim/Moon-kazim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
