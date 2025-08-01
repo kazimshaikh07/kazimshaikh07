@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Moon-kazim&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kazimshaikh07&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--https://gprm.itsvg.in/-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![GitHub Snake](https://raw.githubusercontent.com/kazimshaikh07/snk/output/github-contribution-grid-snake-dark.svg)
