@@ -8,7 +8,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kazimshaikh07&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kazimshaikh07&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kazimshaikh07&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=kazimshaikh07&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
+<a href="https://github.com/kazimshaikh07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimshaikh07&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kazimshaikh07&theme=merko&no-frame=false&no-bg=false&margin-w=4)
@@ -18,6 +19,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kazimshaikh07&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!--https://gprm.itsvg.in/-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![GitHub Snake](https://raw.githubusercontent.com/kazimshaikh07/snk/output/github-contribution-grid-snake-dark.svg)
